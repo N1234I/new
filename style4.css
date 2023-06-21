@@ -1,0 +1,61 @@
+.box {
+    border: 2px solid black;
+    width: 270px; /* Set the width of the box */
+     margin-left: auto;
+    margin-right: auto;
+    padding: 0 7px;
+  }
+  .divider {
+    border-bottom: 12px solid black;
+    margin: 2px 0;
+  }
+  .dividermidiam {
+    border-bottom: 5px solid black;
+    margin: 2px 0;
+  }
+  
+     .margin{
+    margin-top: 0px;
+     }
+     .end{
+      justify-content: flex-end;
+     }
+  
+     .mng{
+      margin-left: 0px;
+     }
+  .calories-info span {
+    margin: -7px -2px;
+    font-size: 2.4em;
+    font-weight: 700;
+  }
+
+  .bold {
+    font-weight:20px;
+    font-size: 30px;
+  }
+  .bold1{
+    font-size: 50px;
+  }
+  .fla{
+    text-align: left;
+    width: 75%;
+  }
+  
+  .pr{
+    text-align: right;
+    width: 25%;
+  }
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  .note {
+    font-size: 0.6rem;
+    margin: 5px 0;
+    padding :0 8px;
+    text-indent:-8px;
+  }
+  
